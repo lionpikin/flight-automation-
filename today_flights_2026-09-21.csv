@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1372,"$1,372",WB + KL + AF,2026-11-25T14:45:00,N/A,2026-12-24T17:10:00,N/A,YES,https://www.kayak.com
+Skyscanner,1576.43,"$1,577",Emirates,2026-11-25T17:55:00,2026-11-26T12:45:00,2026-12-24T15:35:00,2026-12-26T16:10:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,1577,"$1,577",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGECE-HpLf.ZpbE3-UY8hoNUvH8T-y68A.157696.8db164c14c2955db8e62e7df1944c4df&h=f30723640879&sub=F5318365317047317626E0d49c6c078d&viewId=9650bb90-dd06-4ad3-9ac8-f96b93b274ff&viewRank=2
+Skyscanner,1614.0,"$1,614",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,1689,$1689,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,1752,$1752,Emirates Airlines,2026-11-25T17:55:00,2026-11-26T12:45:00,2026-12-24T15:35:00,2026-12-26T16:10:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,1807,$1807,Delta Air Lines,2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,1832.19,"$1,833",Air France,2026-11-25T23:55:00,2026-11-26T13:00:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,2047,"$2,047",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGECE-HpLf.47F3EeHCWiIEdn9PX-8xhQ.204700.f50d902bf28d49ad453ca4feed8c3a34&h=a53462b865d7&sub=F5286764520537387386E0d300a3bab7&viewId=9650bb90-dd06-4ad3-9ac8-f96b93b274ff&viewRank=3
