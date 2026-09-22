@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1371,"$1,371",WB + DL,2026-11-25T14:45:00,N/A,2026-12-24T17:10:00,N/A,YES,https://www.kayak.com
+Kayak,1577,"$1,577",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=1GBiToHHZ9.ZpbE3-UY8hoNUvH8T-y68A.157696.8db164c14c2955db8e62e7df1944c4df&h=f2d116818efe&sub=F6884939326308255394E0d49c6c078d&viewId=8a98dbb4-0e53-44e1-9cc4-945b1cb7fcba&viewRank=2
+Skyscanner,1633.89,"$1,634",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,1708,$1708,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,1755,$1755,Emirates Airlines,2026-11-25T17:55:00,2026-11-26T12:45:00,2026-12-24T15:35:00,2026-12-26T16:10:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,1808,$1808,Delta Air Lines,2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,1814.87,"$1,815",Air France,2026-11-25T23:55:00,2026-11-26T13:00:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Skyscanner,1815.81,"$1,816","KLM, Air France",2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,2095,"$2,095",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=1GBiToHHZ9.scU5lTLQcTc.209473.4c840b598c0bd7a01193cc3ba13c0edc&h=428d0606d15d&sub=F-4310734375716981535E009471e01e4&viewId=8a98dbb4-0e53-44e1-9cc4-945b1cb7fcba&viewRank=3
