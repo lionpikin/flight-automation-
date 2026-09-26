@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1361,"$1,361",KL + AF + WB,2026-11-25T14:45:00,N/A,2026-12-24T17:10:00,N/A,YES,https://www.kayak.com
+Kayak,1590,"$1,590",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGEiGmh6pf.hVPlmUai5GwDzQq2dWkU9A.158997.9d580e0d2a0624172dc4627fdca894c6&h=d1ee867e2e35&sub=F-1173224920806384082E01dbfdf6712&viewId=c4581f5a-118d-4807-9662-8efac9350fb6&viewRank=2
+Skyscanner,1609.98,"$1,610",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Skyscanner,1614.99,"$1,615",Emirates,2026-11-25T17:55:00,2026-11-26T12:45:00,2026-12-24T15:35:00,2026-12-26T16:10:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,1702,$1702,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,1757,$1757,Emirates Airlines,2026-11-25T17:55:00,2026-11-26T12:45:00,2026-12-24T15:35:00,2026-12-26T16:10:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,1890.97,"$1,891",Qatar Airways,2026-11-25T15:30:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T14:00:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,1943,$1943,Qatar Airways,2026-11-25T15:30:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T14:00:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Kayak,2017,"$2,017",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGEiGmh6pf.47F3EeHCWiIEdn9PX-8xhQ.201700.f50d902bf28d49ad453ca4feed8c3a34&h=523947a19ff6&sub=F4738614300523805870E0d300a3bab7&viewId=c4581f5a-118d-4807-9662-8efac9350fb6&viewRank=3
