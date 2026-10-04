@@ -1,0 +1,6 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Booking.com,1869,$1869,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2077,$2077,Delta Air Lines,2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T13:50:00,2026-12-25T21:05:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2078,$2078,Delta Air Lines,2026-11-25T23:55:00,2026-11-26T13:00:00,2026-12-24T13:50:00,2026-12-25T21:05:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,2286.29,"$2,287",Qatar Airways,2026-11-25T09:15:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T07:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Skyscanner,2400.29,"$2,401",Qatar Airways,2026-11-25T15:30:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T07:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
