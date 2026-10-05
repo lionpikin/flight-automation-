@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1411,"$1,411",WB + AS,2026-11-25T14:45:00,N/A,2026-12-24T10:30:00,N/A,YES,https://www.kayak.com
+Skyscanner,1655.8,"$1,656",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,1694,"$1,694",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGHiKX26eo.hVPlmUai5GwDzQq2dWkU9A.169397.9d580e0d2a0624172dc4627fdca894c6&h=b85b40ed6395&sub=F8390389224014206403E01dbfdf6712&viewId=6763a724-d03f-427b-9f82-92e633fe8e63&viewRank=2
+Skyscanner,1724.9,"$1,725",Emirates,2026-11-25T17:55:00,2026-11-26T13:50:00,2026-12-24T15:50:00,2026-12-26T16:10:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,1869,$1869,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,1885.7,"$1,886",Qatar Airways,2026-11-25T09:15:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T14:00:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,2067,"$2,067",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGHiKX26eo.scU5lTLQcTc.206669.3f43981bc0740c12fe7d0e63437a6e56&h=b752a2a73542&sub=F636625350657711217E0632f66f113&viewId=6763a724-d03f-427b-9f82-92e633fe8e63&viewRank=3
+Booking.com,2082,$2082,Emirates Airlines,2026-11-25T17:55:00,2026-11-26T13:50:00,2026-12-24T15:50:00,2026-12-26T16:10:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2308,$2308,Delta Air Lines,2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T13:50:00,2026-12-25T21:05:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
