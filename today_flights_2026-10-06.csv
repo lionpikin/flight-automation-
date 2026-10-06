@@ -1,0 +1,9 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1410,"$1,410",WB + AS,2026-11-25T14:45:00,N/A,2026-12-24T09:33:00,N/A,YES,https://www.kayak.com
+Kayak,1693,"$1,693",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGGCLhPzEx.hVPlmUai5GwDzQq2dWkU9A.169297.9d580e0d2a0624172dc4627fdca894c6&h=51cd75ba2841&sub=F-3525464869659175352E01dbfdf6712&viewId=24d65b88-50bd-4f4b-848b-87615d1b26d6&viewRank=2
+Booking.com,1869,$1869,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Kayak,2120,"$2,120",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=uGGCLhPzEx.47F3EeHCWiIEdn9PX-8xhQ.212000.9a53c905f745ad830388da90fae978ef&h=4003495c39ad&sub=F1590712014558175855E0d300a3bab7&viewId=24d65b88-50bd-4f4b-848b-87615d1b26d6&viewRank=3
+Booking.com,2251,$2251,Emirates Airlines,2026-11-25T18:05:00,2026-11-26T13:50:00,2026-12-24T15:50:00,2026-12-26T16:20:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2256,$2256,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T15:50:00,2026-12-26T16:20:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,2286.29,"$2,287",Qatar Airways,2026-11-25T09:15:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T07:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Skyscanner,2400.29,"$2,401",Qatar Airways,2026-11-25T15:30:00,2026-11-26T12:50:00,2026-12-24T15:10:00,2026-12-26T07:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
