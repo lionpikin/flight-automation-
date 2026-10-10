@@ -1,0 +1,7 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1563,"$1,563",KL + WB + AF,2026-11-25T14:45:00,N/A,2026-12-24T17:10:00,N/A,YES,https://www.kayak.com
+Kayak,1589,"$1,589",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=vSFiAehiVO.hVPlmUai5GwDzQq2dWkU9A.158897.9d580e0d2a0624172dc4627fdca894c6&h=330ed045f2a9&sub=F4082679757686282748E01dbfdf6712&viewId=5d6f24e5-fbf4-497d-afc8-23113b4189fa&viewRank=2
+Booking.com,1753,$1753,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,1949,$1949,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T17:10:00,2026-12-26T06:20:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Kayak,2131,"$2,131",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=vSFiAehiVO.scU5lTLQcTc.213059.198bb294fe247c40140eab75c86c9c75&h=79a537ed2dfe&sub=F-1494122826230204768E0739649246d&viewId=5d6f24e5-fbf4-497d-afc8-23113b4189fa&viewRank=3
+Booking.com,2137,$2137,Qatar Airways,2026-11-25T15:30:00,2026-11-26T12:50:00,2026-12-24T17:10:00,2026-12-26T06:20:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
