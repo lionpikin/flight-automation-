@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1604,"$1,604",LH + KQ,2026-11-25T12:30:00,N/A,2026-12-24T18:55:00,N/A,YES,https://www.kayak.com
+Kayak,1801,"$1,801",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=vSHiCpYh9e.6We7wBYoN-cNUvH8T-y68A.180097.9d580e0d2a0624172dc4627fdca894c6&h=edf38e8b4e04&sub=F4531190399104847225E0cb6a73073a&viewId=8ec46321-969d-42cf-bb90-230d2cd5d69c&viewRank=2
+Skyscanner,1846.15,"$1,847",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,1998,$1998,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,2047.75,"$2,048",Air France,2026-11-25T23:55:00,2026-11-26T13:00:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Skyscanner,2048.72,"$2,049","KLM, Air France",2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,2100,$2100,KLM,2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2100,$2100,KLM,2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Kayak,2160,"$2,160",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=vSHiCpYh9e.flRtgcskbsLTYwQ_VUUUMA.215949.1db6f178a20b03b8b81084a6e7827d9f&h=6de25776561a&sub=F6077507490026868448E0d56047e581&viewId=8ec46321-969d-42cf-bb90-230d2cd5d69c&viewRank=3
