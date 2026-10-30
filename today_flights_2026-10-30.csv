@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1729,"$1,729",KQ + AT + AS,2026-11-25T06:45:00,N/A,2026-12-24T14:00:00,N/A,YES,https://www.kayak.com
+Kayak,1800,"$1,800",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=2TCiJM7EVM.O2JeY7MjstY.179915.9d580e0d2a0624172dc4627fdca894c6&h=9ff45062e41e&sub=F-551252246251838805E0ed0fb0fbae&viewId=be93d190-a7cc-4b03-bd90-f1a0306e4217&viewRank=2
+Skyscanner,1819.91,"$1,820",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,2008,$2008,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2078,$2078,Delta Air Lines,2026-11-25T23:55:00,2026-11-26T13:00:00,2026-12-24T15:20:00,2026-12-25T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2090,$2090,Delta Air Lines,2026-11-25T23:55:00,2026-11-26T21:35:00,2026-12-24T15:20:00,2026-12-25T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,2097.84,"$2,098",Air France,2026-11-25T23:55:00,2026-11-26T13:00:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Skyscanner,2098.79,"$2,099","KLM, Air France",2026-11-25T23:05:00,2026-11-26T11:45:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,2101,"$2,101",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=2TCiJM7EVM.scU5lTLQcTc.210069.f415fb208dbee3c053125e1692af121e&h=dfd0044dc08b&sub=F-5569839505001278601E009471e01e4&viewId=be93d190-a7cc-4b03-bd90-f1a0306e4217&viewRank=3
