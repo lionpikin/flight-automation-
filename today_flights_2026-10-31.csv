@@ -1,0 +1,10 @@
+platform,price,price_display,airline,out_depart,out_arrive,ret_depart,ret_arrive,split,link
+Kayak,1701,"$1,701",KQ + LH,2026-11-25T12:30:00,N/A,2026-12-24T18:55:00,N/A,YES,https://www.kayak.com
+Kayak,1805,"$1,805",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=vSGCUfR6T6.O2JeY7MjstY.180415.9d580e0d2a0624172dc4627fdca894c6&h=32d0095751d5&sub=F-6034793539197230534E0ed0fb0fbae&viewId=183c7754-fd34-498d-8852-a8d4f8c1f03d&viewRank=2
+Booking.com,1877,$1877,Egyptair,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,1915.45,"$1,916",EgyptAir,2026-11-25T15:00:00,2026-11-26T12:20:00,2026-12-24T16:25:00,2026-12-26T13:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Booking.com,2014,$2014,Qatar Airways,2026-11-25T09:15:00,2026-11-26T13:25:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Booking.com,2014,$2014,Qatar Airways,2026-11-25T09:15:00,2026-11-26T13:25:00,2026-12-24T21:05:00,2026-12-26T21:40:00,No,https://flights.booking.com/flights/LOS.AIRPORT-LAX.AIRPORT/?type=ROUNDTRIP&adults=1&cabinClass=ECONOMY&depart=2026-11-25&return=2026-12-24
+Skyscanner,2093.39,"$2,094",Emirates,2026-11-25T18:05:00,2026-11-26T13:50:00,2026-12-24T15:50:00,2026-12-26T16:20:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
+Kayak,2126,"$2,126",Unknown,N/A,N/A,N/A,N/A,No,https://www.kayak.com/book/flight?code=vSGCUfR6T6.scU5lTLQcTc.212589.f415fb208dbee3c053125e1692af121e&h=1837981e22ee&sub=F8141916059551173801E009471e01e4&viewId=183c7754-fd34-498d-8852-a8d4f8c1f03d&viewRank=3
+Skyscanner,2220.19,"$2,221",Qatar Airways,2026-11-25T09:15:00,2026-11-26T13:25:00,2026-12-24T15:10:00,2026-12-26T07:45:00,No,https://www.skyscanner.com/transport/flights/los/lax/261125/261224/?adults=1&cabinclass=economy
